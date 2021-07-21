@@ -44,37 +44,44 @@ html body{
   display: grid;
   grid-gap: 20px;
   grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  box-shadow: var(--shadow);
+  padding:15px;
 }
 
 .project-mid > img{
-  width:400px;
+  width:200px;
+
 }
 
 .project-mid2{
   font-size:1.5em;
 }
-
 .project-mid{
-  margin:25px;
+  margin-bottom:50px;
+  margin-top: 50px;
   display: grid;
   grid-gap: 20px;
   grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  box-shadow: var(--shadow);
+  padding:15px;
 }
 
 .project-bottom > img{
-  width:400px;
+  width:200px;
+
 }
 
 .project-bottom2{
   font-size:1.5em;
 }
-
 .project-bottom{
-  margin:30px;
   margin-bottom:200px;
+  margin-top: 50px;
   display: grid;
   grid-gap: 20px;
   grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  box-shadow: var(--shadow);
+  padding:15px;
 }
 
 .text-light{

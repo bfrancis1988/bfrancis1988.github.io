@@ -1,1 +1,1 @@
-document.getElementById("theFooter").innerHTML = " <footer class='text-light bg-dark'> Bradley Francis Ozarks Technical Community College Expedia Group </footer>";
+document.getElementById("theFooter").innerHTML = " <footer class='text-light bg-dark'> Bradley Francis <i class='fas fa-laptop-code'></i> Ozarks Technical Community College <i class='fas fa-laptop-code'></i> Expedia Group </footer>";
