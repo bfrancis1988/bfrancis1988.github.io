@@ -31,7 +31,8 @@ h1{
 
 .container-sm{
   text-align:center;
-  margin:25px;
+  margin:auto;
+  margin-top: 25px;
   box-shadow: var(--shadow);
   padding: 10px;
 }
@@ -142,6 +143,7 @@ h1{
 .skills-right{
   box-shadow: var(--shadow);
   padding:10px;
+  margin-bottom: 100px;
 
 }
 
@@ -161,6 +163,7 @@ h1{
 
 .family-slide{
   box-shadow: var(--shadow);
+  margin-bottom: 100px;
 }
 
 /* Media change is affecting nav */
